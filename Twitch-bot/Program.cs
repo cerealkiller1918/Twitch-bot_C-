@@ -10,6 +10,9 @@ namespace Twitch_bot
     {
         static void Main(string[] args)
         {
+
+            new Twitch();
+            Console.ReadLine();
         }
     }
 }
